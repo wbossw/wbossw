@@ -28,13 +28,25 @@
 
 ### 🧩 Tecnologías & Herramientas
 <p align="left">
-  <img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bugcrowd-F26822?logo=bugcrowd&logoColor=white&style=for-the-badge"/>
+  <!-- Bug Bounty Platforms -->
+<img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bugcrowd-F26822?logo=bugcrowd&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Intigriti-161A36?logoColor=white&style=for-the-badge"/>
+
+<!-- Security Tools -->
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-00599C?logo=metasploit&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white&style=for-the-badge"/>
+
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"/>
+
+<!-- Operating Systems -->
+<img src="https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
