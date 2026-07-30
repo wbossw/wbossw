@@ -55,7 +55,7 @@
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrie1Hz&theme=onestar&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://secur0-platform-production.s3.amazonaws.com/competitions/e0ec731b-b449-406b-a6af-f3a5bd8df842.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6LJLWZ5JUE3YPHE7%2F20260730%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260730T221531Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=d9772b5af83c4563b3073f3eccf753039fbfef26aa441ade8782a666b792cead" alt="trophies"/>
 </p>
 
 ---
