@@ -31,7 +31,6 @@
   <!-- Bug Bounty Platforms -->
 <img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bugcrowd-F26822?logo=bugcrowd&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Intigriti-161A36?logoColor=white&style=for-the-badge"/>
 
 <!-- Security Tools -->
 <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge"/>
