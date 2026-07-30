@@ -54,27 +54,27 @@
 
 ---
 
-## 🐞 Bug Bounty Profiles
+##  Bug Bounty Profiles
 
 <p align="center">
 
-<a href="https://bugcrowd.com/USERNAME">
+<a href="https://bugcrowd.com/h/wbosswww">
   <img src="https://img.shields.io/badge/Bugcrowd-Profile-F26822?logo=bugcrowd&logoColor=white&style=for-the-badge" alt="Bugcrowd"/>
 </a>
 
-<a href="https://hackerone.com/USERNAME">
+<a href="https://hackerone.com/wbossw">
   <img src="https://img.shields.io/badge/HackerOne-Profile-494649?logo=hackerone&logoColor=white&style=for-the-badge" alt="HackerOne"/>
 </a>
 
-<a href="https://app.intigriti.com/profile/USERNAME">
+<a href="https://app.intigriti.com/profile/wbossw">
   <img src="https://img.shields.io/badge/Intigriti-Profile-161A36?style=for-the-badge" alt="Intigriti"/>
 </a>
 
-<a href="https://platform.secur0.com/profile/USERNAME">
+<a href="https://app.secur0.com/user/wbossw">
   <img src="https://img.shields.io/badge/Secur0-Profile-009688?style=for-the-badge" alt="Secur0"/>
 </a>
 
-<a href="https://grayback.es">
+<a href="https://app.grayback.es/profile/wbossw">
   <img src="https://img.shields.io/badge/Grayback-Profile-1E3A8A?style=for-the-badge" alt="Grayback"/>
 </a>
 
