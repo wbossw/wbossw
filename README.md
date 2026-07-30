@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<a href="https://bugcrowd.com/h/wbosswww">
+<a href="https://bugcrowd.com/h/wbossww">
   <img src="https://img.shields.io/badge/Bugcrowd-Profile-F26822?logo=bugcrowd&logoColor=white&style=for-the-badge" alt="Bugcrowd"/>
 </a>
 
