@@ -64,13 +64,13 @@
 
 <td>
 
-### Secur0 & GrayBack CTF Competition
+### Secur0 & GrayBack Cyber Fight Club (CFC) Competition
 
 🥇 **Result:** 4th Place
 
 📅 **Year:** 2026
 
-🎯 Achieved **4th place** in a web security-focused Capture The Flag (CTF) competition, solving challenges involving web exploitation, cryptography, reverse engineering, and binary exploitation.
+🎯 Achieved **4th place** in a web security-focused Bug Bounty competition, solving challenges involving web exploitation, cryptography and binary exploitation.
 
 </td>
 </tr>
