@@ -20,11 +20,14 @@
 
 ---
 
-### ⚡ Sobre mí
-- 🛡️ Pentesting
-- 🧰 Desarrollo: Python, Bash
-- 🧪 Me gusta resolver CTF'S
-- 🎯 Objetivo: Informar a empresas e instituciones sobre vulnerabilidades en sus proyectos para contribuir y poder mejorar seguridad de sus servicios.
+## ⚡ Sobre mí
+
+🛡️ Especializado en **Pentesting**, **Web Security** y **Bug Bounty**.
+🧰 Desarrollo de herramientas y automatizaciones en **Python** y **Bash**.
+🧪 Apasionado por resolver **CTFs**, investigar nuevas vulnerabilidades y mejorar continuamente mis habilidades técnicas.
+🎯 Mi objetivo es ayudar a empresas e instituciones a identificar y corregir vulnerabilidades de seguridad mediante la divulgación responsable, contribuyendo a la protección de sus productos y servicios.
+
+---
 
 ### 🧩 Tecnologías & Herramientas
 <p align="left">
