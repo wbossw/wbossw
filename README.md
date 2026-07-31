@@ -138,9 +138,9 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 
 <tr>
 
-<td width="140" align="center">
+<td width="340" align="center">
 
-<img src="https://wbossw.github.io/assets/certificates/Letter-of-Recognition-NASA.png" width="250" alt="NASA Vulnerability Disclosure Program Letter of Recognition">
+<img src="https://wbossw.github.io/assets/certificates/Letter-of-Recognition-NASA.png" width="500" alt="NASA Vulnerability Disclosure Program Letter of Recognition">
 
 </td>
 
