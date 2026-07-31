@@ -114,7 +114,7 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 
 <td width="140" align="center">
 
-<img src="https://wbossw.github.io/assets/certificates/vulnerability-medium-.png" width="250" alt="Secur0 Bug Bounty Certificate">
+<img src="https://wbossw.github.io/assets/certificates/vulnerability-medium-.png" width="250" alt="Secur0 Certificate - QryptLab">
 
 </td>
 
@@ -122,11 +122,11 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 
 ### Secur0 Bug Bounty Recognition
 
-🏅 **Achievement:** Valid Vulnerability Report
+🏅 **Achievement:** ### High Severity Race Condition — QryptLab Vulnerability Disclosure
 
 📅 **Year:** 2026
 
-🛡️ Recognition awarded after responsibly reporting a valid security vulnerability through the Secur0 Bug Bounty Program, contributing to the identification and remediation of a security issue.
+🛡️ Certificate awarded for the responsible disclosure of a **High Severity Race Condition** affecting the QryptLab platform. The vulnerability allowed concurrent requests to bypass the intended application logic, potentially resulting in unauthorized actions. The finding was responsibly disclosed through the Bug Bounty program and successfully validated by the security team.
 
 </td>
 
