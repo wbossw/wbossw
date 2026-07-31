@@ -146,7 +146,7 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 
 <td>
 
-### Cross-Site Request Forgery (CSRF) — NASA VDP
+### Letter of Recognition (LOR) — NASA Vulnerability Disclosure Program.
 
 🏅 **Recognition:** Letter of Recognition
 
