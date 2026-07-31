@@ -122,11 +122,11 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 
 ### Secur0 Bug Bounty Recognition
 
-🏅 **Achievement:** ### High Severity Race Condition — QryptLab Vulnerability Disclosure
+🏅 **Achievement: High Severity Race Condition — QryptLab Vulnerability Disclosure**
 
 📅 **Year:** 2026
 
-🛡️ Certificate awarded for the responsible disclosure of a **High Severity Race Condition** affecting the QryptLab platform. The vulnerability allowed concurrent requests to bypass the intended application logic, potentially resulting in unauthorized actions. The finding was responsibly disclosed through the Bug Bounty program and successfully validated by the security team.
+🛡️ Certificate awarded for the responsible disclosure of a **High Severity Race Condition** affecting the QryptLab platform. The vulnerability allowed concurrent requests to bypass application logic, potentially resulting in unauthorized actions. The finding was responsibly disclosed through the Bug Bounty program and validated by the security team.
 
 </td>
 
