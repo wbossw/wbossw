@@ -126,7 +126,7 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 
 📅 **Year:** 2026
 
-🛡️ Certificate awarded for the responsible disclosure of a **High Severity Race Condition** affecting the QryptLab platform. The vulnerability allowed concurrent requests to bypass application logic, potentially resulting in unauthorized actions. The finding was responsibly disclosed through the Bug Bounty program and validated by the security team.
+🎯 Certificate awarded for responsibly disclosing a **High Severity Race Condition** affecting the QryptLab platform. The vulnerability allowed concurrent requests to bypass application logic, resulting in unauthorized actions. The report was validated through the Vulnerability Disclosure Program.
 
 </td>
 
