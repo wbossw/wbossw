@@ -114,7 +114,7 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 
 <td width="140" align="center">
 
-<img src="https://wbossw.github.io/assets/certificates/Certificado-1785.pdf" width="250" alt="Secur0 Bug Bounty Certificate">
+<img src="https://wbossw.github.io/assets/certificates/vulnerability-medium-.png" width="250" alt="Secur0 Bug Bounty Certificate">
 
 </td>
 
