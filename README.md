@@ -91,7 +91,7 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 <table>
 <tr>
 <td width="140" align="center">
-<img src="https://secur0-platform-production.s3.amazonaws.com/competitions/e0ec731b-b449-406b-a6af-f3a5bd8df842.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6LJLWZ5JUE3YPHE7%2F20260730%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260730T221531Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=d9772b5af83c4563b3073f3eccf753039fbfef26aa441ade8782a666b792cead" width="250" alt="Secur0 & GrayBack CTF">
+<img src="https://secur0-platform-production.s3.amazonaws.com/competitions/e0ec731b-b449-406b-a6af-f3a5bd8df842.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6LJLWZ5JUE3YPHE7%2F20260730%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260730T221531Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=d9772b5af83c4563b3073f3eccf753039fbfef26aa441ade8782a666b792cead" width="250" alt="Secur0 & GrayBack CFC">
 </td>
 
 <td>
@@ -106,6 +106,32 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 
 </td>
 </tr>
+</table>
+
+<table>
+
+<tr>
+
+<td width="140" align="center">
+
+<img src="https://wbossw.github.io/assets/certificates/Certificado-1785.pdf" width="250" alt="Secur0 Bug Bounty Certificate">
+
+</td>
+
+<td>
+
+### Secur0 Bug Bounty Recognition
+
+🏅 **Achievement:** Valid Vulnerability Report
+
+📅 **Year:** 2026
+
+🛡️ Recognition awarded after responsibly reporting a valid security vulnerability through the Secur0 Bug Bounty Program, contributing to the identification and remediation of a security issue.
+
+</td>
+
+</tr>
+
 </table>
 
 ---
