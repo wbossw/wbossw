@@ -90,8 +90,8 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 
 <table>
 <tr>
-<td width="140" align="center">
-<img src="https://wbossw.github.io/assets/certificates/CFC.png" width="250" alt="Secur0 & GrayBack CFC">
+<td width="340" align="center">
+<img src="https://wbossw.github.io/assets/certificates/CFC.png" width="500" alt="Secur0 & GrayBack CFC">
 </td>
 
 <td>
