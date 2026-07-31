@@ -112,9 +112,9 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 
 <tr>
 
-<td width="140" align="center">
+<td width="340" align="center">
 
-<img src="https://wbossw.github.io/assets/certificates/vulnerability-high.png" width="250" alt="Secur0 Certificate - QryptLab">
+<img src="https://wbossw.github.io/assets/certificates/vulnerability-high.png" width="500" alt="Secur0 Certificate - QryptLab">
 
 </td>
 
