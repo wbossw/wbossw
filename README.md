@@ -152,7 +152,7 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 
 📅 **Year:** 2026
 
-🛡️ Letter of Recognition awarded for the responsible disclosure of a **Cross-Site Request Forgery (CSRF)** vulnerability through NASA's Vulnerability Disclosure Program, managed by Bugcrowd. The report was validated and contributed to improving the security of NASA's systems.
+🎯 Letter of Recognition awarded for the responsible disclosure of a **Cross-Site Request Forgery (CSRF)** vulnerability through NASA's Vulnerability Disclosure Program, managed by Bugcrowd. The report was validated and contributed to improving the security of NASA's systems.
 
 </td>
 
