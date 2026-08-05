@@ -102,7 +102,7 @@ Security Research • Responsible Disclosure • Bug Bounty Hunter
 
 📅 **Year:** 2026
 
-🎯 Achieved **4th place** in a web security-focused Bug Bounty competition, solving challenges involving web exploitation, cryptography and binary exploitation.
+🎯 Achieved **4th place** in a web security-focused Bug Bounty competition, solving challenges involving web exploitation.
 
 </td>
 </tr>
