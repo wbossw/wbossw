@@ -80,7 +80,7 @@
       <h3>Secur0 Bug Bounty Recognition</h3>
       <p>🏅 <b>Achievement:</b> High Severity Race Condition — QryptLab Vulnerability Disclosure<br/>
       📅 <b>Year:</b> 2026</p>
-      <p>Certificate awarded for responsibly disclosing a <b>High Severity Race Condition</b>The vulnerability allowed concurrent requests to bypass application logic, resulting in unauthorized actions.</p>
+      <p>Certificate awarded for responsibly disclosing a <b>High Severity Race Condition</b> The vulnerability allowed concurrent requests to bypass application logic, resulting in unauthorized actions.</p>
     </td>
   </tr>
   <tr>
