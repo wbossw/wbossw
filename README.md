@@ -31,7 +31,7 @@
 <p align="center">
   <b>Programming & Operating Systems</b><br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,js,bash,linux,kali,windows" alt="Programming and Operating Systems"/>
+  <img src="https://skillicons.dev/icons?i=js,python,bash,linux,kali,windows" alt="Programming and Operating Systems"/>
 </p>
 
 <p align="center">
