@@ -104,12 +104,12 @@
   <a href="https://wbossw.github.io" title="Website">
     <img src="https://img.icons8.com/ios-glyphs/48/ffffff/globe.png" width="36" height="36" alt="Website"/>
   </a>
+    &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hugo-sanchezz" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/linkedin.png" width="36" height="36" alt="LinkedIn"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/wbossw" title="GitHub">
     <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="36" height="36" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hugo-sanchezz" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/linkedin.png" width="36" height="36" alt="LinkedIn"/>
   </a>
 </div>
