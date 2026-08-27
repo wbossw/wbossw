@@ -100,16 +100,18 @@
 
 ## 🌐 Links
 
+## 🌐 Links
+
 <div align="center">
   <a href="https://wbossw.github.io" title="Website">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/globe.png" width="36" height="36" alt="Website"/>
-  </a>
-    &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hugo-sanchezz" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/linkedin.png" width="36" height="36" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/2196F3/globe.png" width="36" height="36" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/wbossw" title="GitHub">
     <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="36" height="36" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hugo-sanchezz" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-glyphs/48/0A66C2/linkedin.png" width="36" height="36" alt="LinkedIn"/>
   </a>
 </div>
