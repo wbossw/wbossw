@@ -58,46 +58,6 @@
 
 ---
 
-## 🏆 Competitions & Achievements
-
-<table>
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://wbossw.github.io/assets/certificates/CFC.png" width="100%" alt="Secur0 & GrayBack CFC">
-    </td>
-    <td width="70%">
-      <h3>Secur0 & GrayBack Cyber Fight Club (CFC) Competition</h3>
-      <p>🥇 <b>Result:</b> 4th Place<br/>
-      📅 <b>Year:</b> 2026</p>
-     <p>Achieved <b>4th place</b> in a <b>6-day Secur0 Bug Bounty competition</b>, earning <b>89.5 CVSS 4.0 severity points</b> by responsibly reporting vulnerabilities in <b>websites, APIs, and publicly available software</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://wbossw.github.io/assets/certificates/vulnerability-high.png" width="100%" alt="Secur0 Certificate - QryptLab">
-    </td>
-    <td width="70%">
-      <h3>Secur0 Bug Bounty Recognition</h3>
-      <p>🏅 <b>Achievement:</b> High Severity Race Condition — QryptLab Vulnerability Disclosure<br/>
-      📅 <b>Year:</b> 2026</p>
-      <p>Certificate awarded for responsibly disclosing a <b>High Severity Race Condition</b> The vulnerability allowed concurrent requests to bypass application logic, resulting in unauthorized actions.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://wbossw.github.io/assets/certificates/Letter-of-Recognition-NASA.jpg" width="100%" alt="NASA Vulnerability Disclosure Program Letter of Recognition">
-    </td>
-    <td width="70%">
-      <h3>Letter of Recognition (LOR) — NASA VDP</h3>
-      <p>🏅 <b>Recognition:</b> Letter of Recognition<br/>
-      📅 <b>Year:</b> 2026</p>
-      <p>Awarded for the responsible disclosure of a <b>Cross-Site Request Forgery (CSRF)</b> vulnerability through NASA's Vulnerability Disclosure Program, managed by Bugcrowd. The report was validated and contributed to improving the security of NASA's systems.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌐 Links
 
 <div align="center">
