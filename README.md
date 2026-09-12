@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="https://wbossw.github.io/assets/certificates/CFC.png" width="100%" alt="Secur0 & GrayBack CFC">
+      <img src="https://wbossw.github.io/assets/certificates/CFC.webp" width="100%" alt="Secur0 & GrayBack CFC">
     </td>
     <td width="70%">
       <h3>Secur0 & GrayBack Cyber Fight Club (CFC) Competition</h3>
@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td width="30%" align="center">
-      <img src="https://wbossw.github.io/assets/certificates/vulnerability-high.png" width="100%" alt="Secur0 Certificate - QryptLab">
+      <img src="https://wbossw.github.io/assets/certificates/Secur0-high.webp" width="100%" alt="Secur0 Certificate - QryptLab">
     </td>
     <td width="70%">
       <h3>Secur0 Bug Bounty Recognition</h3>
