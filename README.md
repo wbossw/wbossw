@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <td width="30%" align="center">
-      <img src="https://wbossw.github.io/assets/certificates/Letter-of-Recognition-NASA.jpg" width="100%" alt="NASA Vulnerability Disclosure Program Letter of Recognition">
+      <img src="https://wbossw.github.io/assets/certificates/Letter-of-Recognition.webp" width="100%" alt="NASA Vulnerability Disclosure Program Letter of Recognition">
     </td>
     <td width="70%">
       <h3>Letter of Recognition (LOR) — NASA VDP</h3>
