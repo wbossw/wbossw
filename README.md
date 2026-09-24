@@ -80,7 +80,7 @@
       <h3>Secur0 Copa Pisotón Competition</h3>
       <p>🏅 <b>Result:</b> 2nd Place<br/>
       📅 <b>Year:</b> 2026</p>
-      <p>Achieved 2nd place in the Copa Pisotón competition, organized by Secur0 and the Madrid Cybersecurity Agency, with 150.7 severity points as a team. Competed as part of the MiLordd team and also achieved 2nd place individually, earning 89.2 severity points.</p>
+      <p>Achieved <b>2nd place</b> in the <b>Copa Pisotón competition</b>, organized by <b>Secur0 and the Madrid Cybersecurity Agency</b>, with <b>150.7 severity points</b> as a team. Competed as part of the <b>MiLordd team</b> and also achieved <b>2nd place individually</b>, earning <b>89.2 severity points</b>.</p>
     </td>
   </tr>
   <tr>
