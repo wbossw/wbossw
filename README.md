@@ -74,13 +74,13 @@
   </tr>
   <tr>
     <td width="30%" align="center">
-      <img src="https://wbossw.github.io/assets/certificates/Secur0-high.webp" width="100%" alt="Secur0 Certificate - QryptLab">
+      <img src="https://wbossw.github.io/assets/certificates/Copa-Pisot%C3%B3n.webp" width="100%" alt="Secur0 Copa Pisotón">
     </td>
     <td width="70%">
-      <h3>Secur0 Bug Bounty Recognition</h3>
-      <p>🏅 <b>Achievement:</b> High Severity Race Condition — QryptLab Vulnerability Disclosure<br/>
+      <h3>Secur0 Copa Pisotón Competition</h3>
+      <p>🏅 <b>Result:</b> 2nd Place<br/>
       📅 <b>Year:</b> 2026</p>
-      <p>Certificate awarded for responsibly disclosing a <b>High Severity Race Condition</b> The vulnerability allowed concurrent requests to bypass application logic, resulting in unauthorized actions.</p>
+      <p>Achieved 2nd place in the Copa Pisotón competition, organized by Secur0 and the Madrid Cybersecurity Agency, with 150.7 severity points as a team. Competed as part of the MiLordd team and also achieved 2nd place individually, earning 89.2 severity points.</p>
     </td>
   </tr>
   <tr>
