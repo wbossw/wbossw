@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wbossw.github.io"><img src="https://komarev.com/ghpvc/?username=wbossw" alt="Profile Views"/></a>
+  <a href="https://wbossw.github.io"><img src="https://komarev.com/ghpvc/?username=wbossw&style=for-the-badge&color=0e75b6" alt="Profile Views"/></a>
   <a href="https://wbossw.github.io"><img src="https://img.shields.io/badge/GitHub%20Pages-Online-242938?style=for-the-badge&logo=github" alt="GitHub Pages"/></a>
   <a href="mailto:wbossw.dreamt061@passinbox.com"><img src="https://img.shields.io/badge/Contact-Email-25D366?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
